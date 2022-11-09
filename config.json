@@ -1,0 +1,83 @@
+{
+    "name": "Lowpexay",
+    "job": "Student",
+    "bg": "https://www.napratica.org.br/wp-content/webp-express/webp-images/uploads/2021/08/luca-bravo-XJXWbfSo2f0-unsplash-696x464.jpg.webp",
+    "github": "Lowpexay",
+    "playlists": {
+        "Jogos": [
+            {
+                "title": "GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!",
+                "url": "https://www.youtube.com/watch?v=6fNUO23I_BA",
+                "thumb": "https://img.youtube.com/vi/6fNUO23I_BA/maxresdefault.jpg"
+            },
+            {
+                "title": "GOD OF WAR RAGNAROK #2 - O Segredo de Atreus! | Gameplay no PS5 em Português PT-BR!s",
+                "url": "https://www.youtube.com/watch?v=azHObod6mto",
+                "thumb": "https://img.youtube.com/vi/azHObod6mto/maxresdefault.jpg"
+            },
+            {
+                "title": "fiz um jogo 3d do bee movie pra ps1",
+                "url": "https://www.youtube.com/watch?v=6bKu71lOsMA&t=225s",
+                "thumb": "https://img.youtube.com/vi/6bKu71lOsMA/maxresdefault.jpg"
+            },
+            {
+                "title": "o fundo do mar tem segredos",
+                "url": "https://www.youtube.com/watch?v=60liQ2mKEvU&t=466s",
+                "thumb": "https://img.youtube.com/vi/60liQ2mKEvU/maxresdefault.jpg"
+            },
+            {
+                "title": "FIZ UM JOGO DO MINEIRINHO EM 2D",
+                "url": "https://www.youtube.com/watch?v=1QtgOymTU_E",
+                "thumb": "https://img.youtube.com/vi/1QtgOymTU_E/maxresdefault.jpg"
+            },
+            {
+                "title": "explorei o roblox e me arrependi",
+                "url": "https://www.youtube.com/watch?v=XBxlpii2b4I&t=206s",
+                "thumb": "https://img.youtube.com/vi/XBxlpii2b4I/maxresdefault.jpg"
+            },
+            {
+                "title": "Mogeko Castle - Cute Adventure, Manly Let's Play Pt.1",
+                "url": "https://www.youtube.com/watch?v=lN8cOM1kxOc&list=PLq7Wze90TsOovHEpOzk7QI2kCKUIWljG8",
+                "thumb": "https://img.youtube.com/vi/lN8cOM1kxOc/maxresdefault.jpg"
+            }
+        ],
+    
+        "Long-plays": [
+            {
+                "title": "vamos substituir os nerds - Outlast #11",
+                "url": "https://www.youtube.com/watch?v=k7uXkre73p4",
+                "thumb": "https://img.youtube.com/vi/k7uXkre73p4/maxresdefault.jpg"
+            },
+            {
+                "title": "Ib REMAKE - Survive A Horror Painting World Once Again Ib Returns [ 1 ]",
+                "url": "https://www.youtube.com/watch?v=3ks5HvFncDI&list=PLq7Wze90TsOpO5Hb0Vby69EBWHZQfjBjD",
+                "thumb": "https://img.youtube.com/vi/3ks5HvFncDI/maxresdefault.jpg"
+            },
+            {
+                "title": "castlevania - a sinfonia das reviews",
+                "url": "https://www.youtube.com/watch?v=vA7DyyWpvgk&t=21s",
+                "thumb": "https://img.youtube.com/vi/vA7DyyWpvgk/maxresdefault.jpg"
+            },
+            {
+                "title": "achamos que zeramos - The Godfather #38",
+                "url": "https://www.youtube.com/watch?v=txS02nh50SA",
+                "thumb": "https://img.youtube.com/vi/txS02nh50SA/maxresdefault.jpg"
+            },
+            {
+                "title": "o final mais difícil da história do canal - Crash Bandicoot 2 Remastered #15 Final",
+                "url": "https://www.youtube.com/watch?v=ggQ12_Y5EAw",
+                "thumb": "https://img.youtube.com/vi/ggQ12_Y5EAw/maxresdefault.jpg"
+            },
+            {
+                "title": "o JOGO do URSÃO RUSSO! - Bears, Vodka, Balalaika!",
+                "url": "https://www.youtube.com/watch?v=Wsn5rbqZzZA",
+                "thumb": "https://img.youtube.com/vi/Wsn5rbqZzZA/maxresdefault.jpg"
+            },
+            {
+                "title": "o big craque no ataque - God of War 2 #39",
+                "url": "https://www.youtube.com/watch?v=myLQC0dBsbw",
+                "thumb": "https://img.youtube.com/vi/myLQC0dBsbw/maxresdefault.jpg"
+            }
+        ]
+    }
+}
