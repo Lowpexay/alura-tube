@@ -8,6 +8,6 @@ Projeto da Imersão React
 | :label: Tecnologias | React e javascript
 | :rocket: URL       | https://alura-tube-lowpexay.vercel.app/
 
-![](blob:https://vercel.com/1e75decb-621d-4077-9fd4-f44b9d867285)
+![](https://cdn.discordapp.com/attachments/690327547178909728/1041796108625641614/unknown.png)
 
 
